@@ -59,8 +59,10 @@
 
 # 핵심 코드
 ![image](https://user-images.githubusercontent.com/102014376/173288637-32d9df36-d7d8-42bd-80a7-fa47a4559d68.png)
+### Strike와 Ball을 판별하는 if문
 
-#출력
+
+# 출력
 ![image](https://user-images.githubusercontent.com/102014376/173288755-4893ebc7-c212-481e-ac63-f63aade6cc22.png)
 ### 숫자 3개를 입력 후 몇 스트라이크 몇 볼을 맞췄는지 출력한 후 다시 숫자 3개를 입력
 
