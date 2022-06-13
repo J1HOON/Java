@@ -1,11 +1,7 @@
 # Java 야구게임 and Hit and blow 게임 
 
 
-public class base {
-    public static void main(String[] args) {
-        int num[] = new int[3];
-        int answer[] = new int[3];
-        Random r = new Random();
+
 
         while(true) {
             while(true){
@@ -60,4 +56,4 @@ public class base {
         }
     }
 
-}
+
