@@ -22,3 +22,4 @@
 
 ## 출력
 ![image](https://user-images.githubusercontent.com/102014376/180177942-76f12cbb-5359-435e-a7af-7eae35e12eaa.png)
+### //※폰트 오류로 크기가 달라짐※
