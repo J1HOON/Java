@@ -11,6 +11,10 @@
 
 ![image](https://user-images.githubusercontent.com/102014376/180174798-61ce21fa-86d2-4333-ab73-b859654b7fb2.png)
 ### 끝 메서드를 이용해 자신이 좌표를 지정한 돌을 기준으로 가로, 세로, 대각선을 스캔해 만약 돌이 있을경우 cnt변수를 이용해서 5개이상인지 아닌지 구분함.
+![image](https://user-images.githubusercontent.com/102014376/180178572-3412dded-a68e-47b6-8376-a359d64dff27.png)
+### 세로 스캔
+
+
 
 #### //만약 스캔하는 범위가 2차원배열을 넘어갔을 경우 try catch를 이용해 배열 바깥으로 나가는 오류를 막아둔다.
 ### --
