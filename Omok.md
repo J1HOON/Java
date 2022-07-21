@@ -16,7 +16,7 @@
 ### --
 ![image](https://user-images.githubusercontent.com/102014376/180178307-ea703c9e-4341-4514-9616-150e4a9250ba.png)
 ### 코드를 끝내기 위해 boolean의 값을 조정.
-
+### --
 ![image](https://user-images.githubusercontent.com/102014376/180175474-af4f04eb-612b-4c2e-8b6f-c2b63816dd3c.png)
 ### 위에서 설명한 오목판을 출력하는 메서드.
 ### --
