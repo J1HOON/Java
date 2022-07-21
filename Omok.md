@@ -18,3 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/102014376/180175474-af4f04eb-612b-4c2e-8b6f-c2b63816dd3c.png)
 ### 위에서 설명한 오목판을 출력하는 메서드.
+### --
+
+## 출력
+![image](https://user-images.githubusercontent.com/102014376/180177942-76f12cbb-5359-435e-a7af-7eae35e12eaa.png)
