@@ -26,6 +26,6 @@
 ### --
 
 ## 출력
-![image](https://user-images.githubusercontent.com/102014376/180177942-76f12cbb-5359-435e-a7af-7eae35e12eaa.png)
+![image](https://user-images.githubusercontent.com/102014376/180465273-da43409d-0b73-4ec1-9eab-7ee44234fecb.png)
 ### //※폰트 오류로 크기가 달라짐※
 
