@@ -17,7 +17,7 @@
 
 
 #### //만약 스캔하는 범위가 2차원배열을 넘어갔을 경우 try catch를 이용해 배열 바깥으로 나가는 오류를 막아둔다.
-### --
+
 ![image](https://user-images.githubusercontent.com/102014376/180178307-ea703c9e-4341-4514-9616-150e4a9250ba.png)
 ### 코드를 끝내기 위해 boolean의 값을 조정.
 
