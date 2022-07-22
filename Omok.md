@@ -27,5 +27,5 @@
 
 ## 출력
 ![image](https://user-images.githubusercontent.com/102014376/180465273-da43409d-0b73-4ec1-9eab-7ee44234fecb.png)
-### //※폰트 오류로 크기가 달라짐※
+### //5줄이 됐을 경우 cnt를 통해 승 패를 결정함.
 
