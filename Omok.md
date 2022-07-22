@@ -2,7 +2,7 @@
 ## 중요 코드
 ![image](https://user-images.githubusercontent.com/102014376/180173080-6aa2282f-a3a7-44aa-b63f-ebda62508d2a.png)
 ### public class 안에 기본 오목판 틀을 2차원 배열을 이용해 만듦.
-### --
+
 ![image](https://user-images.githubusercontent.com/102014376/180173502-87a8509b-a910-4bf3-902a-701c496a15f2.png)
 ### 메인 메서드에 흑돌과 백돌의 차례를 분할한 다음 번갈아 가며 돌을 놓는 코드를 Scanner를 이용해 값을 받고 printMap 메서드를 이용해 바뀐 오목판을 출력함.
 
