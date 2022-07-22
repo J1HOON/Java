@@ -29,3 +29,4 @@
 ![image](https://user-images.githubusercontent.com/102014376/180465273-da43409d-0b73-4ec1-9eab-7ee44234fecb.png)
 ### //5줄이 됐을 경우 cnt를 통해 승 패를 결정함.
 
+![image](https://user-images.githubusercontent.com/102014376/180465832-4666aa1e-d7e8-4777-bfe9-96d7702a18c7.png)
