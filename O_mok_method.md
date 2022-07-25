@@ -1,3 +1,6 @@
 # 오목 메서드로 나눠서 만들기
 
 ### 기존 오목을 만든것에 메서드를 이용해 코드를 최대한으로 줄임.
+
+
+![image](https://user-images.githubusercontent.com/102014376/180699339-7ac07fd4-636f-4325-8929-522f260d20cd.png)
