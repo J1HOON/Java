@@ -5,3 +5,6 @@
 
 ![image](https://user-images.githubusercontent.com/102014376/180699339-7ac07fd4-636f-4325-8929-522f260d20cd.png)
 ### 메인 클래스
+
+## 출력시
+![image](https://user-images.githubusercontent.com/102014376/180940523-3363a3f9-c4a8-4e6b-be28-5290e6991b40.png)
