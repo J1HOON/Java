@@ -14,7 +14,7 @@
 ### - 1번
 ![image](https://user-images.githubusercontent.com/102014376/180940654-ba6a54db-e3b4-4c84-875d-808f88b706bf.png)
 
-### = 2번
+### - 2번
 ![image](https://user-images.githubusercontent.com/102014376/180940753-6609af38-4794-41c9-9269-85b0b0190c75.png)
 ### 코드
 ![image](https://user-images.githubusercontent.com/102014376/180941128-bec69c7b-c26c-4fc5-a134-87c999eb6cb4.png)
