@@ -18,7 +18,7 @@
 ### 메서드로 만들어 값을 바꾸게 만듦.
 ![image](https://user-images.githubusercontent.com/102014376/180941857-f76b1546-96bd-4652-b22c-21b5e1194f65.png)
 ### 배열 크기에 들어갈 값 자체를 변수로 조정해 코드를 최대한으로 줄임.
-
+## ---
 
 ## - 2번
 ![image](https://user-images.githubusercontent.com/102014376/180940753-6609af38-4794-41c9-9269-85b0b0190c75.png)
