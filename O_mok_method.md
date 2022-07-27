@@ -30,3 +30,4 @@
 
 ## - 3번
 ![image](https://user-images.githubusercontent.com/102014376/180940868-decaf786-67c5-4457-b140-6c03309e2bf0.png)
+### 1, 2, 3번 분간하는 코드
