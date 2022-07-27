@@ -28,6 +28,8 @@
 ![image](https://user-images.githubusercontent.com/102014376/180941297-4f9f085d-f6a5-4854-84e2-faf66d9f48c7.png)
 ### 승패가 났을때 승리 혹은 패배를 올림.
 
+## ----
+
 ## - 3번
 ![image](https://user-images.githubusercontent.com/102014376/180940868-decaf786-67c5-4457-b140-6c03309e2bf0.png)
 ### 1, 2, 3번 분간하는 코드
